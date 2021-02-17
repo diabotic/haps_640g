@@ -6,11 +6,6 @@ Effort to create a Hardware/Software solution to mimic the OpenAPS Project for t
 
 
 
-# First test with the Menu button automated:
-
-https://youtu.be/5NW6dfRWW0s
-
-
 # Thanks
 
 First, I want to thanks for pazaan (https://github.com/pazaan) and oldsterIL (https://github.com/oldsterIL) for all the shared code and knowledge about all IO with medtronic devices. 

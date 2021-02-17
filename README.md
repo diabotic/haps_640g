@@ -13,7 +13,7 @@ https://youtu.be/5NW6dfRWW0s
 
 # Thanks
 
-First, I want to thanks for pazaan (https://github.com/pazaan) for all the shared code and knowledge about all IO with medtronic devices. 
+First, I want to thanks for pazaan (https://github.com/pazaan) and oldsterIL (https://github.com/oldsterIL) for all the shared code and knowledge about all IO with medtronic devices. 
 Also greate thanks for Ball00 (https://github.com/Bal00) for the 640g integration insights and the electrical scheme
 Thanks too for a brazilian friend helping to brainstorming for other ways to talk to the 640g ou Veo (
 
@@ -25,6 +25,8 @@ https://github.com/pazaan/decoding-contour-next-link
 https://github.com/Bal00/operating-contour-next-link
 
 https://github.com/mvp/uhubctl#raspberry-pi-b2b3b
+
+https://github.com/oldsterIL/600SeriesDriver
 
 
 # Other References 

@@ -5,6 +5,19 @@ Half Artificial Pancreas System - Only does automatic bolus, no bolus suspension
 Effort to create a Hardware/Software solution to mimic the OpenAPS Project for the 640g Pump. 
 
 
+# Installation
+
+Download driver cnl24lib.py from https://github.com/mvp/uhubctl#raspberry-pi-b2b3b 
+
+Put it in the lib directory 
+
+Adjust your nightscout credentials on ns_uploader.py
+
+Adjust your diabetes settings on diabetes.py
+
+Run haps.py
+
+
 
 # Thanks
 
@@ -15,17 +28,18 @@ Thanks too for all friends from Brazil, Poland, Russia and the world for helping
 
 # References 
 
-https://github.com/pazaan/decoding-contour-next-link
+https://github.com/oldsterIL/600SeriesDriver
 
 https://github.com/Bal00/operating-contour-next-link
 
 https://github.com/mvp/uhubctl#raspberry-pi-b2b3b
 
-https://github.com/oldsterIL/600SeriesDriver
 
 
 
 # Other References 
+
+https://github.com/pazaan/decoding-contour-next-link
 
 https://github.com/galaviz-lip/cgm-remote-monitor
 

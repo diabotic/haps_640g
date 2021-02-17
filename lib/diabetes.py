@@ -6,12 +6,12 @@ BOLUS_PATTERN = '/home/pi/Projects/haps/config/bolus.json'
 BOLUS_JSON = {} 
 
 # How many mg/dl 1 unit lowers
-BG_TARGET = 115
-IS_SLEEP  = 28 #30
-IS_BRFAST = 23 #25
-IS_LUNCH  = 23 #25
-IS_NORM   = 25 #28
-MAX_BOLUS = 3.0
+BG_TARGET = 120
+IS_SLEEP  = 40
+IS_BRFAST = 40
+IS_LUNCH  = 40
+IS_NORM   = 40
+MAX_BOLUS = 1.0
 
 
 def valid_bg(bg):

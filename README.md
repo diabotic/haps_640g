@@ -10,7 +10,7 @@ Effort to create a Hardware/Software solution to mimic the OpenAPS Project for t
 
 First, I want to thanks for pazaan (https://github.com/pazaan) and oldsterIL (https://github.com/oldsterIL) for all the shared code and knowledge about all IO with medtronic devices. 
 Also greate thanks for Ball00 (https://github.com/Bal00) for the 640g integration insights and the electrical scheme
-Thanks too for a brazilian friend helping to brainstorming for other ways to talk to the 640g ou Veo (
+Thanks too for a brazilian friend helping to brainstorming for other ways to talk to the 640g or Veo
 
 
 # References 

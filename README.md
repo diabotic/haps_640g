@@ -3,7 +3,9 @@
 Half Artificial Pancreas System - Only does automatic bolus - NO bolus suspension
 
 Effort to create a Hardware/Software solution to mimic the OpenAPS Project for the 640g Pump. 
+          
 
+&emsp; 
 
 # What You Need
 
@@ -15,6 +17,8 @@ Effort to create a Hardware/Software solution to mimic the OpenAPS Project for t
 
 4 - A Nightscout account
 
+
+&emsp; 
 
 # Installation
 
@@ -29,6 +33,7 @@ Adjust your diabetes settings on diabetes.py
 Run haps.py
 
 
+&emsp; 
 
 # Thanks
 
@@ -36,6 +41,8 @@ First, I want to thanks for pazaan (https://github.com/pazaan) and oldsterIL (ht
 Also greate thanks for Ball00 (https://github.com/Bal00) for the 640g integration insights and the electrical scheme
 Thanks too for all friends from Brazil, Poland, Russia and the world for helping to brainstorming for other ways to talk to the 640g or Veo
 
+
+&emsp; 
 
 # References 
 
@@ -49,9 +56,13 @@ Command USB of Raspberry Pi:
 https://github.com/mvp/uhubctl#raspberry-pi-b2b3b
 
 
+&emsp; 
 
+&emsp; 
 
 # Other References 
+
+http://www.nightscout.info/
 
 https://github.com/pazaan/decoding-contour-next-link
 

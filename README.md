@@ -1,8 +1,19 @@
 # haps_640g
 
-Half Artificial Pancreas System - Only does automatic bolus, no bolus suspension
+Half Artificial Pancreas System - Only does automatic bolus - NO bolus suspension
 
 Effort to create a Hardware/Software solution to mimic the OpenAPS Project for the 640g Pump. 
+
+
+# What You Need
+
+1 - Raspberry Pi with Wifi
+
+2 - A Contour Next Link 2.4 to command your 640 Pump
+
+3 - An eletronic board with optocouplers to command the CNL
+
+4 - A Nightscout account
 
 
 # Installation
@@ -28,10 +39,13 @@ Thanks too for all friends from Brazil, Poland, Russia and the world for helping
 
 # References 
 
+CNL Driver:
 https://github.com/oldsterIL/600SeriesDriver
 
+HW Concept Inspiration:
 https://github.com/Bal00/operating-contour-next-link
 
+Command USB of Raspberry Pi:
 https://github.com/mvp/uhubctl#raspberry-pi-b2b3b
 
 

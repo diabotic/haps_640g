@@ -71,3 +71,8 @@ https://github.com/openaps/decocare
 
 https://nbviewer.jupyter.org/gist/mariusae/18a62db9cc32d09dc691fd4f78dcdbfa
 
+https://github.com/nightscout/AndroidAPS
+
+https://androidaps.readthedocs.io/en/latest/Installing-AndroidAPS/Building-APK.html
+
+

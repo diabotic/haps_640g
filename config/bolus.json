@@ -1,0 +1,37 @@
+{"bolus_patterns": [{
+			"start": "00:00",
+			"end": "08:00",
+			"insulin-sensivity": 34,
+			"bg-target": 140,
+			"carb-ratio": 10
+		},
+		{
+			"start": "08:01",
+			"end": "12:00",
+			"insulin-sensivity": 30,
+			"bg-target": 120,
+			"carb-ratio": 10
+		},
+		{
+			"start": "12:01",
+			"end": "16:00",
+			"insulin-sensivity": 30,
+			"bg-target": 120,
+			"carb-ratio": 10
+		},
+		{
+			"start": "16:01",
+			"end": "22:00",
+			"insulin-sensivity": 32,
+			"bg-target": 130,
+			"carb-ratio": 10
+		},
+		{
+			"start": "22:01",
+			"end": "23:59",
+			"insulin-sensivity": 34,
+			"bg-target": 140,
+			"carb-ratio": 10
+		}
+	]
+}

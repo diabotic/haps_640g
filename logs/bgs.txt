@@ -1,0 +1,1 @@
+time;bgl;arrows;active_insulin;ns_status

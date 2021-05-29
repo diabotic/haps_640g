@@ -18,7 +18,7 @@ Effort to create a Hardware/Software solution to mimic the OpenAPS Project for t
 
 # Installation
 
-Download driver cnl24lib.py from https://github.com/mvp/uhubctl#raspberry-pi-b2b3b 
+Download driver cnl24lib.py from https://github.com/oldsterIL/600SeriesDriver
 
 Put it in the lib directory 
 

@@ -60,6 +60,7 @@ https://github.com/mvp/uhubctl#raspberry-pi-b2b3b
 
 &emsp; 
 
+
 # Other References 
 
 http://www.nightscout.info/
@@ -85,5 +86,14 @@ https://nbviewer.jupyter.org/gist/mariusae/18a62db9cc32d09dc691fd4f78dcdbfa
 https://github.com/nightscout/AndroidAPS
 
 https://androidaps.readthedocs.io/en/latest/Installing-AndroidAPS/Building-APK.html
+
+https://www.diabettech.com/looping-a-guide/
+
+https://github.com/LilDucky/Medtronic-6xx
+
+https://jensheuschkel.wordpress.com/2017/08/27/contour-next-link-link-2-4-teardown/?fbclid=IwAR2c099oM8qqQmjtrqf-OwLVuBRgllDe6fH1Qwozvow4-i-nKoK7GAeUIDQ
+
+
+
 
 

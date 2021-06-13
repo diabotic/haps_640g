@@ -95,5 +95,5 @@ https://jensheuschkel.wordpress.com/2017/08/27/contour-next-link-link-2-4-teardo
 
 https://github.com/JoernL/LimiTTer
 
-
+https://www.intechopen.com/books/gluconeogenesis/blood-glucose-prediction-for-artificial-pancreas-system
 

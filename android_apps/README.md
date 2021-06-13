@@ -1,23 +1,15 @@
 # Android APKs 
 
 
-## APK for reseting CGM countdown
+&emsp; **[lreseter.apk](https://github.com/diabotic/haps_640g/blob/master/android_apps/lreseter.apk?raw=true)** (for reseting famous CGM countdown)
 
-&emsp; **[lreseter.apk](https://github.com/diabotic/haps_640g/blob/master/android_apps/lreseter.apk?raw=true)**
+&emsp; **[androidaps.apk](https://github.com/diabotic/haps_640g/blob/master/android_apps/androidAPS.apk?raw=true)** (My build of AAPS)
 
-&emsp;&emsp; [Verification Report from VirusTotal](https://www.virustotal.com/gui/file/c37dcb80a387ef542bbbb9f18677673e20b8d0635b0f513f418923f174b514e6/detection)
-
-
-
-## AndroidAPS already build APK
-
-&emsp; **[androidaps.apk](https://github.com/diabotic/haps_640g/blob/master/android_apps/androidAPS.apk?raw=true)**
-
-&emsp;&emsp; [Verification Report from VirusTotal](https://www.virustotal.com/gui/file/1c40af041c86bb63f55afb9b5162d76708102f9fe650486a7be05df73c5c7e5d/detection)
+&emsp; **[ruffy.apk](https://github.com/diabotic/haps_640g/blob/master/android_apps/ruffy.apk?raw=true)** (for controlling Roche Pump)
 
 
 
-## Verification Tools:
+## APKs Verification Tools:
 
 &emsp; **Always verify apks that are not from the Google Play Store !**
 
@@ -28,6 +20,6 @@
 &emsp;&emsp; [Signature verification at sisik.eu](https://sisik.eu/cert)
 
 
-## Other
+# Other Stuff
 
 &emsp;&emsp; AAPS Objective 3 tests source code

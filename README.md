@@ -97,3 +97,5 @@ https://github.com/JoernL/LimiTTer
 
 https://www.intechopen.com/books/gluconeogenesis/blood-glucose-prediction-for-artificial-pancreas-system
 
+https://github.com/szpaku80/reverse-engineering-contour-next-link-24
+

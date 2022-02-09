@@ -65,6 +65,8 @@ https://github.com/mvp/uhubctl#raspberry-pi-b2b3b
 
 http://www.nightscout.info/
 
+https://github.com/benceszasz/minimed-connect-to-nightscout
+
 https://github.com/pazaan/decoding-contour-next-link
 
 https://github.com/galaviz-lip/cgm-remote-monitor
